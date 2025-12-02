@@ -9,7 +9,7 @@
 ###
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=NorvinCodes&color=F1C40F)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=NorvinCodes&color=F1C40F) 
 
 ###
 
