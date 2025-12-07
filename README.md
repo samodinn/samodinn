@@ -23,7 +23,7 @@
 
 <h3>Backend / Learning </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nothin)](https://github.com/samodinn)
+[![My Skills](https://skillicons.dev/icons?i=go)](https://github.com/samodinn)
 
 <h3> My Socials </h3>
 <p align="left">
